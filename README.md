@@ -1,4 +1,4 @@
-# Simplified Bitcoin/Blockchain System implementation in Python with One File
+# Simplified BitcoinLike/BlockChain System implementation in Python with One File
 
 A Python implementation of a blockchain system, including wallets, transactions, mining, and blockchain validation. This project demonstrates the fundamental concepts of blockchain technology.
 
